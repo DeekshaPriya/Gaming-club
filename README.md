@@ -35,3 +35,7 @@ A comprehensive Spring Boot application for managing gaming center operations in
 ```bash
 git clone https://github.com/your-username/gaming-center-management.git
 cd gaming-center-management# Gaming-club
+  
+
+  Hello everyone;
+  
